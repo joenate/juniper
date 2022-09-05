@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lateral Thinking</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="🌿.png">  
+    <script src="lateral.js"></script> 
+</head>
+<body class="wrapper">
+    <!-- Intro message -->
+    <div id="intro">
+        <h1>Lateral Thinking</h1>
+        <h3 style="margin: 40px auto;">Lateral thinking problems push you to think outside the box.<br><br><a href="/index.html">Back to Home</a></h3>
+        <button class ="but two" id="start">Begin</button>
+    </div>
+    <!-- Question -->
+    <div id="circles">
+        <div class="circle" id="circle1"></div>
+        <div class="circle" id="circle2"></div>
+        <div class="circle" id="circle3"></div>
+    </div>
+    <div id="question">
+        <h2>Timer: <span id="time">0</span> seconds</h2>
+        <p id="riddle"></p>
+        <form>
+            <input id="field" type="text" placeholder="Paperweight">
+            <button id="submit" class="but two more" type="submit">Submit</button>
+        </form>
+    </div>
+    <!-- Next slide -->
+    <div id="continue1">
+        <h3>The answer:</h3> <p class = "other_responses"></p>
+        <h3>Good start! Ready for level two?</h3>
+        <button id="continue_but1" class="but two more">Continue</button>
+    </div>
+    <!-- Next slide 2 -->
+    <div id="continue2">
+        <h3>The answer:</h3> <p class = "other_responses"></p>
+        <h3>Ready for the last level?</h3>
+        <button id="continue_but2" class="but two more">Continue</button>
+    </div>
+    <!-- Finish -->
+    <div id="continue3">
+        <h3>The answer:</h3> <p class = "other_responses"></p>
+        <h3>Way to finish strong. Play again to sharpen your creativity skills.</h3>
+        <a href="./index.html"><button id="continue_but3" class="but two more">Back to Home</button></a>
+    </div>
+</body>
+</html>

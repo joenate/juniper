@@ -1,0 +1,110 @@
+
+[
+    {
+        "item": "brick",
+        "guesses": ["stepstool 🪜", "paperweight 📄", "anchor⚓", "dummbell"]
+    },
+    {
+        "item": "ping pong ball",
+        "guesses": ["flotation device", "Christmas tree ornaments"]
+    },
+    {
+        "item": "plank of wood",
+        "guesses": ["ironing board", "clipboard", "cutting board"]
+    },
+    {
+        "item": "paperclip",
+        "guesses": ["piercing needle", "envelope opener", "hairclip"]
+    },
+    {
+        "item": "toothbrush",
+        "guesses": ["shoe cleaner", "back scratcher", "hair brush"]
+    },
+    {
+        "item": "coffee mug",
+        "guesses": ["cereal bowl", "paperweight", "pencil holder"]
+    },
+    {
+        "item": "face mask",
+        "guesses": ["napkins", "tissue paper", "sling shot", "sleep mask", "headband"]
+    },
+    {
+        "item": "hand sanitizer", 
+        "guesses": ["surface disinfectant", "stain remover", "mace (pepper spray equivalent)"]
+    },
+    {
+        "item": "ice cream scooper",
+        "guesses": ["spoon", "soup ladle", "snowball maker"]
+    },
+    {
+        "item": "blender",
+        "guesses": ["paper shredder", "coffee bean grinder", "cereal bowl"]
+    },
+    {
+        "item": "surfboard",
+        "guesses": ["ironing board", "bench", "table top"]
+    },
+    {
+        "item": "3-inch hoop earrings",
+        "guesses": ["key ring", "napkin holder", "stencil"]
+    },
+    {
+        "item": "5-foot metal rod",
+        "guesses": ["javelin", "pull up bar", "roling pin"]
+    },
+    {
+        "item": "candle",
+        "guesses": ["lighter", "torture device"]
+    },
+    {
+        "item": "pair of crutches",
+        "guesses": ["stilts", "pogo stick"]
+    },
+    {
+        "item": "tea kettle",
+        "guesses": ["soup pot", "watering can"]
+    },
+    {
+        "item": "waffle iron",
+        "guesses": ["quesadilla maker", "panini press", "torture device"]
+    },
+    {
+        "item": "shower head",
+        "guesses": ["hose nozzle", "salad dressing spout"]
+    },
+    {
+        "item": "wineglass",
+        "guesses": ["cereal bowl", "mini fish tank", "art"]
+    },
+    {
+        "item": "toilet seat (just the seat)",
+        "guesses": ["rescue buoy", "picture frame"]
+    },
+    {
+        "item": "tea bag",
+        "guesses": ["food seasoning", "odor neutralizer"]
+    },
+    {
+        "item": "umbrella",
+        "guesses": ["mop bucket", "kite"]
+
+    },
+    {
+        "item": "scissors",
+        "guesses": ["eyebrow razor", "pizza slicer", "pencil sharpener"]
+    },
+    {
+        "item": "nail polish",
+        "guesses": ["paintbrush", "white out"]
+    },
+    {
+        "item": "stool",
+        "guesses": ["nightstand", "plant stand"]
+    },
+    {
+        "item": "bra",
+        "guesses": ["arm sling", "fruit hanger", "eye mask", "hand towel", "slingshot", "handcuffs"]
+
+    }
+]
+    
